@@ -20,15 +20,13 @@ The design of a mutual aid app is important because it can greatly benefit commu
 ### Future Design Potential and What we Learned (Task 2 P4)
 
 ### Introducing Our Team! (Task 1 P5)
+Farhan Haider
 
-#### Farhan Haider
+Sean Locklar
+![Banner](assets/SeanProfilePic.png)
 
-#### Sean Locklar
+Daniel Moorhatch
 
-[Banner](assets/SeanProfilePic.png)
+Jeremiah Ruvalcaba
 
-#### Daniel Moorhatch
-
-#### Jeremiah Ruvalcaba
-
-#### Justin Yu
+Justin Yu
