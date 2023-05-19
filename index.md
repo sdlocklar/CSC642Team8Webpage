@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+![Banner](assets/HelpingHandsLogo.png)
 
 
 **[Helping Hands](https://sdlocklar.github.io/CSC642Team8Webpage/)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
