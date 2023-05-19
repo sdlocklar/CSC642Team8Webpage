@@ -5,7 +5,7 @@ layout: default
 ![Banner](assets/HelpingHandsLogo.png)
 
 
-**[Helping Hands]([https://www.figma.com/proto/8sfH7PEiBbzyILFKZRHFqd/Helping-Hands-Prototype?type=design&node-id=179-3647&scaling=scale-down&page-id=0%3A1&starting-point-node-id=179%3A3647])** is connecting helpers with people who need help. Immerse yourself in the world of social work. Join our community, help the people around you and receive help for others. After all, it has to be One Human for Another! 
+**[Helping Hands](https://www.figma.com/proto/8sfH7PEiBbzyILFKZRHFqd/Helping-Hands-Prototype?type=design&node-id=179-3647&scaling=scale-down&page-id=0%3A1&starting-point-node-id=179%3A3647)** is connecting helpers with people who need help. Immerse yourself in the world of social work. Join our community, help the people around you and receive help for others. After all, it has to be One Human for Another! 
 
 ### What is Helping Hands and Why is it Important to Us? (Task 1 P1)
 
