@@ -23,7 +23,7 @@ The design of a mutual aid app is important because it can greatly benefit commu
 Farhan Haider
 
 Sean Locklar
-![Image](assets/SeanProfilePic1.png)
+![Image](assets/SeanProfilePic.png)
 
 Daniel Moorhatch
 
