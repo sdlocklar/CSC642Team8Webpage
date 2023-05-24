@@ -34,4 +34,4 @@ Jeremiah Ruvalcaba
 ![Image](assets/)
 
 Justin Yu
-![Image](assets/)
+![Image](assets/penguin.jpg)
