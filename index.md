@@ -22,12 +22,16 @@ As designers, you should always be ready to rethink designs and get user feedbac
 
 ### Introducing Our Team! (Task 1 P5)
 Farhan Haider
+![Image](assets/)
 
 Sean Locklar
 ![Image](assets/SeanProfilePic.png)
 
 Daniel Moorhatch
+![Image](assets/)
 
 Jeremiah Ruvalcaba
+![Image](assets/)
 
 Justin Yu
+![Image](assets/)
