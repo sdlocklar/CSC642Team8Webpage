@@ -76,7 +76,7 @@ Sean Locklar
 
 Daniel Moorhatch
 <p align="left">
-    <img src="biscuit.png" width="350" style="display:inline;">
+    <img src="group8dan.png" width="350" style="display:inline;">
 </p>
 
 Jeremiah Ruvalcaba
