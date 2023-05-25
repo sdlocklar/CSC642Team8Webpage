@@ -81,4 +81,6 @@ Jeremiah Ruvalcaba
 ![Image](assets/)
 
 Justin Yu
-![Image](assets/penguin.jpg)
+<p align="left">
+    <img src="assets/penguin.jpg" width="350" style="display:inline;">
+</p>
