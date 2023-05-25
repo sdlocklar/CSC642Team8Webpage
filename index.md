@@ -58,8 +58,8 @@ The data we collected from the research process was really extensive. To be able
 ## Iterations From Wireframes to Prototypes (Task 3 P3)
 ---------------------------------------------------------------------------------------
 assets/wireframeexample.png
-<img src="assets/wireframeexample.png" width="400">
-<img src="prototypeexample.png" width="400">
+<img src="assets/wireframexample.png" width="400">
+<img src="assets/prototypeexample.png" width="400">
 ## Future Design Potential and What we Learned (Task 2 P4)
 ---------------------------------------------------------------------------------------
 As designers, you should always be ready to rethink designs and get user feedback. We are designing things that are used by many different people. They might have conditions that stop them from using your product. This is why getting user feedback and rebuilding your design is important because you can always improve in your development process. Some things you shouldn’t do is not adapting to changes around your product and rejecting feedback that is given. If you think you are finished developing your product and decide to stop building on it, eventually it will be outdated. Solving feedback problems would allow users to feel engaged in your product which leads to more users and more design implementations. Some things we noticed in our product is that the SF Mutual Aid app could be further improved to allow users to be able to access pages more readily and quickly. An example is having a sidebar as a navigation aid instead of having buttons in the bottom of a screen to navigate to different pages. Small changes like these would’ve allowed users to be able to access pages quickly and less confusing.
