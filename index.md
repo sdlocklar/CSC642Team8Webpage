@@ -71,12 +71,12 @@ Farhan Haider
 
 Sean Locklar
 <p align="left">
-    <img src="SeanProfilePic.png" width="350" style="display:inline;">
+  <img src="assets/SeanProfilePic.png" width="350" style="display:inline;">
 </p>
 
 Daniel Moorhatch
 <p align="left">
-    <img src="group8dan.png" width="350" style="display:inline;">
+    <img src="assets/group8dan.png" width="350" style="display:inline;">
 </p>
 
 Jeremiah Ruvalcaba
