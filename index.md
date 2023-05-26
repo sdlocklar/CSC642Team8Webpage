@@ -87,7 +87,9 @@ Daniel Moorhatch
 </p>
 
 Jeremiah Ruvalcaba
-![Image](assets/)
+<p align="left">
+    <img src="assets/IMG_0447.jpeg" width="350" style="display:inline;">
+</p>
 
 Justin Yu
 <p align="left">
