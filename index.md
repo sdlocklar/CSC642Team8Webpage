@@ -65,6 +65,13 @@ On the left we have a snippet of our initial wire frame design and on the right 
 <img src="assets/Screen Shot 2023-05-25 at 8.16.08 PM.png" width="400">
 An example of itterations we have made for our app can be seen in our RSVP section, showing the wireframing before and the final product prototyping afterwards. We recieved feedback during our usability testing survey that stated "In the current events page, i think a more interesting design for each post to grab my attention would be better in gaining participation and engagment for these events". We then redesigned the page to have a more eye catching and engaging theme for these events to help drive participation and interest for this section.
 
+<img src="assets/dash.png" width="400">
+<img src="assets/Dashproto.png" width="400">
+We have implemented to enhance our app's user experience, and these improvements are visible in our Dashboard wireframe and prototype. Initially, we started with a basic wireframe that outlined the key elements and functionality of the Dashboard. Through user feedback and testing, we identified areas for improvement and made subsequent iterations.
+Based on user testing and further feedback, we proceeded to subsequent iterations. In the second iteration, we focused on enhancing the visual design and aesthetics of the Dashboard,
+
+
+
 ## Future Design Potential and What we Learned (Task 2 P4)
 ---------------------------------------------------------------------------------------
 As designers, you should always be ready to rethink designs and get user feedback. We are designing things that are used by many different people. They might have conditions that stop them from using your product. This is why getting user feedback and rebuilding your design is important because you can always improve in your development process. Some things you shouldn’t do is not adapting to changes around your product and rejecting feedback that is given. If you think you are finished developing your product and decide to stop building on it, eventually it will be outdated. Solving feedback problems would allow users to feel engaged in your product which leads to more users and more design implementations. Some things we noticed in our product is that the SF Mutual Aid app could be further improved to allow users to be able to access pages more readily and quickly. An example is having a sidebar as a navigation aid instead of having buttons in the bottom of a screen to navigate to different pages. Small changes like these would’ve allowed users to be able to access pages quickly and less confusing.
