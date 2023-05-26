@@ -100,5 +100,5 @@ Jeremiah Ruvalcaba
 
 Justin Yu
 <p align="left">
-    <img src="assets/penguin.jpg" width="350" style="display:inline;">
+    <img src="assets/self-image.jpg" width="350" style="display:inline;">
 </p>
