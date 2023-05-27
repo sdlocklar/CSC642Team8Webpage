@@ -7,14 +7,14 @@ layout: default
 
 **[Helping Hands](https://www.figma.com/proto/8sfH7PEiBbzyILFKZRHFqd/Helping-Hands-Prototype?type=design&node-id=179-3647&scaling=scale-down&page-id=0%3A1&starting-point-node-id=179%3A3647)** is connecting helpers with people who need help. Immerse yourself in the world of social work. Join our community, help the people around you and receive help for others. After all, it has to be One Human for Another! 
 
-## What is Helping Hands and Why is it Important to Us? (Task 1 P1)
+## What is Helping Hands and Why is it Important to Us?
 ---------------------------------------------------------------------------------------
 
 We have people in our society who need support and care from others. There are also people who want to help these kinds of people. The problem is, there is no effective platform that connects these two groups. We intend to provide such a platform. The problem from our perspective is a problem because there will always be things a single person could not hope to accomplish on their own, and we want to create more opportunities for people to reach out to one another within the community in times of need. People are often forced to exhaust their funds and time in order to solve the problem of finding quality and caring helpers in today's current social and economic climate.
 
 The design of a mutual aid app is important because it can greatly benefit communities in need. The app can help people work together, share resources, and gather information about the community's needs. This can make it easier for people to get help with things like food and healthcare. A good mutual aid app can simplify things by being a one stop shop for all aid efforts. By doing this, it can make it easier for people to access the help they need and reduce any obstacles that may be preventing them from getting it.
 
-## User Research Data and Analysis (Task 2 P2)
+## User Research Data and Analysis
 ---------------------------------------------------------------------------------------
 To ensure that we don't build a product based on assumptions. We did extensive research and analysis.
 
@@ -55,7 +55,7 @@ The data we collected from the research process was really extensive. To be able
 - There is a need to keep the volunteers motivated. One way to do it would be to build a community online and have in-person meetups.
 - Trust is a really important aspect. To improve trust between helpers and help-seekers, we should do a background check on the helpers when they join the platform.
 
-## Iterations From Wireframes to Prototypes (Task 3 P3)
+## Iterations From Wireframes to Prototypes
 ---------------------------------------------------------------------------------------
 <img src="assets/wireframexample.png" width="400">
 <img src="assets/prototypeexample.png" width="400">
@@ -68,15 +68,16 @@ An example of itterations we have made for our app can be seen in our RSVP secti
 <img src="assets/dash.png" width="400">
 <img src="assets/Dashproto.png" width="400">
 We have implemented to enhance our app's user experience, and these improvements are visible in our Dashboard wireframe and prototype. Initially, we started with a basic wireframe that outlined the key elements and functionality of the Dashboard. Through user feedback and testing, we identified areas for improvement and made subsequent iterations.
-Based on user testing and further feedback, we proceeded to subsequent iterations. In the second iteration, we focused on enhancing the visual design and aesthetics of the Dashboard,
+Based on user testing and further feedback, we proceeded to subsequent iterations. In the second iteration, we focused on enhancing the visual design and aesthetics of the Dashboard.
 
+### Final Prototype
+To see the final prototype, please click this [link](https://www.figma.com/proto/8sfH7PEiBbzyILFKZRHFqd/Helping-Hands-Prototype?type=design&node-id=179-3647&scaling=scale-down&page-id=0%3A1&starting-point-node-id=179%3A3647)
 
-
-## Future Design Potential and What we Learned (Task 2 P4)
+## Future Design Potential and What we Learned
 ---------------------------------------------------------------------------------------
 As designers, you should always be ready to rethink designs and get user feedback. We are designing things that are used by many different people. They might have conditions that stop them from using your product. This is why getting user feedback and rebuilding your design is important because you can always improve in your development process. Some things you shouldn’t do is not adapting to changes around your product and rejecting feedback that is given. If you think you are finished developing your product and decide to stop building on it, eventually it will be outdated. Solving feedback problems would allow users to feel engaged in your product which leads to more users and more design implementations. Some things we noticed in our product is that the SF Mutual Aid app could be further improved to allow users to be able to access pages more readily and quickly. An example is having a sidebar as a navigation aid instead of having buttons in the bottom of a screen to navigate to different pages. Small changes like these would’ve allowed users to be able to access pages quickly and less confusing.
 
-## Introducing Our Team! (Task 1 P5)
+## Introducing Our Team!
 ---------------------------------------------------------------------------------------
 Farhan Haider
 <p align="left">
